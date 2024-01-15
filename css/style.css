@@ -8,6 +8,14 @@ header{
     position: relative;
 }
 
+h1{
+    margin-bottom: 0px;
+}
+
+#main_title{
+    margin-bottom: 30px;
+}
+
 #logo{
     height: 50px;
     position: absolute;
@@ -32,6 +40,10 @@ thead{
 
 tbody{
     background-color: #b1e5f2;
+}
+
+tr:nth-child(2){
+    background-color: white;
 }
 
 #Highlighted{
