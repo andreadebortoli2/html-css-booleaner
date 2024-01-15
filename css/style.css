@@ -13,3 +13,12 @@ header{
     left: 10px;
     
 }
+
+.title_credits{
+    font-weight: 400;
+    color: lightgray;
+}
+
+#writer{
+    color: lightblue;
+}
