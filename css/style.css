@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+header{
+    height: 150px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+}
+
+#logo{
+    height: 50px;
+    position: relative;
+    left: 10px;
+    
+}
