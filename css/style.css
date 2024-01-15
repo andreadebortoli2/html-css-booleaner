@@ -43,15 +43,13 @@ footer h2{
 }
 
 .suggestion{
-    color: white;
-}
-#first{
-    background-image: url(../img/graph.jpg);
-    background-image: no-repeat;
-    height:;
+    position: relative;
+    margin-top: 10px;
 }
 
-#second{
-    background-image: url(../img/monitor.jpg);
-    height: 208px;
+.suggestion_title{
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 5px;
 }
