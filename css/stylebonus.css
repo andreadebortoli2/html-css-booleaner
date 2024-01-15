@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+header{
+    height: 150px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    position: relative;
+}
+
+main, footer{
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+#main_title{
+    margin-bottom: 30px;
+}
+
+#logo{
+    height: 50px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    
+}
+
+.title_credits{
+    font-weight: 400;
+    color: lightgray;
+}
+
+#writer{
+    color: #31b0e6;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+tbody{
+    background-color: #b1e5f2;
+}
+
+tr:nth-child(2){
+    background-color: white;
+}
+
+.Highlighted{
+    background-color: yellow;
+}
+
+footer h2{
+    color: lightgray;
+}
+
+.suggestion{
+    position: relative;
+    margin-top: 10px;
+}
+
+.suggestion_title{
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 5px;
+}
