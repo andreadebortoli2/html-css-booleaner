@@ -46,7 +46,7 @@ tr:nth-child(2){
     background-color: white;
 }
 
-#Highlighted{
+.Highlighted{
     background-color: yellow;
 }
 
